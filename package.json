@@ -3,7 +3,9 @@
   "version": "1.0.0",
   "description": "",
   "main": "lib/index.js",
-  "files": ["lib/**/*"],
+  "files": [
+    "lib/**/*"
+  ],
   "scripts": {
     "build": "tsc",
     "test": "echo \"Warn: no test specified\"",
@@ -26,9 +28,15 @@
   },
   "homepage": "https://github.com/softwarebygabe/robinhood-promise#readme",
   "devDependencies": {
+    "@types/lodash": "^4.14.121",
     "prettier": "^1.16.4",
     "tslint": "^5.13.0",
     "tslint-config-prettier": "^1.18.0",
     "typescript": "^3.3.3333"
+  },
+  "dependencies": {
+    "lodash": "^4.17.11",
+    "request": "^2.88.0",
+    "request-promise-native": "^1.0.7"
   }
 }
