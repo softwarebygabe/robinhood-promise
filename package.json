@@ -1,5 +1,5 @@
 {
-  "name": "robinhood-promise",
+  "name": "robinhood-ts",
   "version": "1.0.0",
   "description": "",
   "main": "lib/index.js",
@@ -19,14 +19,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/softwarebygabe/robinhood-promise.git"
+    "url": "git+https://github.com/softwarebygabe/robinhood-ts.git"
   },
   "author": "Gabe Szczepanek",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/softwarebygabe/robinhood-promise/issues"
+    "url": "https://github.com/softwarebygabe/robinhood-ts/issues"
   },
-  "homepage": "https://github.com/softwarebygabe/robinhood-promise#readme",
+  "homepage": "https://github.com/softwarebygabe/robinhood-ts#readme",
   "devDependencies": {
     "@types/lodash": "^4.14.121",
     "prettier": "^1.16.4",
